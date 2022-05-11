@@ -1,7 +1,7 @@
 from functions import *
 import jsonpickle
 
-with open('arquivos/Quake.txt', 'r') as QuakeTxt:
+with open('files/Quake.txt', 'r') as QuakeTxt:
 
     lines = []
     archive_json = []
@@ -55,7 +55,7 @@ with open('arquivos/Quake.txt', 'r') as QuakeTxt:
 
 QuakeTxt.close()
 
-with open('arquivos/Quake.json', 'w') as QuakeJson:
+with open('files/Quake.json', 'w') as QuakeJson:
     json = jsonpickle.encode(archive_json, indent=4)
     QuakeJson.write(json)
 QuakeJson.close()
