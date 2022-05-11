@@ -15,7 +15,6 @@ Para a construção do desafio foi utilizada apenas uma biblioteca externar e pa
 _____
 <h3>DESAFIO</h3>
 
------
 ```
 Construa um Parser para o arquivo de log. 
 O arquivo "Quake.txt" é gerado pelo servidor de Quake 3 Arena. Nele está registrado informações sobre as partidas, informações como: Quando começa, quando termina, quem matou quem, quem "se matou" (caiu no vazio, explodiu a si próprio), entre outros. O Parser deve ser capaz de ler o arquivo, agrupar os dados de cada partida, e organizar as suas informações.
