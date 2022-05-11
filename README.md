@@ -8,7 +8,7 @@ _____
 
 <h3>GETTING STARTED</h3>
 Para a construção do desafio foi utilizada apenas uma biblioteca externar e para instalação dela é necessário usar o seguinte comando:
------
+
 
 ```   pip install jsonpickle   ```
 
