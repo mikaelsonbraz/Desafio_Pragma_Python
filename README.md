@@ -7,6 +7,12 @@ _____
 
 _____
 
+<h4>Link para o desafio resolvido em Java utilizando o paradigma de Orientação a Objetos:</h4>
+
+https://github.com/mikaelsonbraz/Desafio_Pragma_Java
+
+_____
+
 <h3>GETTING STARTED</h3>
 Para a construção do desafio foi utilizada apenas uma biblioteca externa e para instalação dela será necessário usar o seguinte comando:
 
