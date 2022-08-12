@@ -3,7 +3,7 @@
 
 _____
 
-<h4>Desafio construído e superado utilizando a linguagem Python</h4>
+<h4>Desafio construído e superado utilizando a linguagem Python e fazendo uso dos paradigmas funcional e estruturado</h4>
 
 _____
 
